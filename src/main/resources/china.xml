@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<china>
+    <province name="广东">
+        <city>广州</city>
+        <city>深圳</city>
+        <city>佛山</city>
+    </province>
+    <province name="北京">
+        <city>朝阳区</city>
+        <city>东城区</city>
+        <city>西城区</city>
+    </province>
+    <province name="天津">
+        <city>和平区</city>
+        <city>河东区</city>
+        <city>河西区</city>
+    </province>
+</china>
